@@ -24,11 +24,11 @@ public class Cliente {
         return this.email;
     }
 
-    public void setNome(String agencia) {
+    public void setNome(String nome) {
         this.nome = nome;
     }
 
-    public void setEmail(String agencia) {
+    public void setEmail(String email) {
         this.email = email;
     }
 }
